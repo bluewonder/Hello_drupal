@@ -1,0 +1,9 @@
+;$Id$
+
+name = Fun
+description = My first drupal module
+package = Drupal 7 development
+core = 7.x
+
+;dependencies[] = autoload
+;php = 5.3
